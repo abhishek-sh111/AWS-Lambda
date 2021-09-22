@@ -1,0 +1,12 @@
+{
+    "books": [
+        {
+            "bookType": "indian",
+            "amount": 5.07
+        },
+        {
+            "bookType": "USA",
+            "amount": 25
+        }
+    ]
+}
